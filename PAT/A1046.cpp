@@ -29,6 +29,7 @@ int getDistance(int a[], int b, int c, int n)
 
 int main()
 {
+    
     int Vn, distance[100000] = {0};
     scanf("%d", &Vn);
     for(int i = 0; i < Vn; i++)
